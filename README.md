@@ -1,2 +1,2 @@
 # my-first-python-code
-Belajar Python
+Belajar Dasar Python
